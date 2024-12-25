@@ -369,9 +369,8 @@ body {
 }
 
 .logo img{
-  width: 150px;
+  width: 100px;
   object-fit: cover;
-  
 }
 
 .logo ion-icon {
